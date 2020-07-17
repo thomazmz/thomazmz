@@ -2,7 +2,7 @@
 
 ## Hey There! 😛
 
-- 🔭 I’m currently working with TypeScript, Node.js and React
-- 🌱 I’m currently learning Functional Programming
-- 🤗 Pronouns: he/him
+- 🔭 Wrking with TypeScript, Node.js and React
+- 🌱 Learning Functional Programming
+- 🤗 He/Him
 
