@@ -3,7 +3,7 @@
 ## Hey There! 😛
 
 - 🔭 Working with TypeScript, Node.js and React
-- 🌱 Learning Functional Programming
-- ⌨️ Advocating for mob programming
+- 🌱 Learning about Functional Programming
+- ⌨️ Advocating for pair and mob programming
 - 🤗 He/Him
 
