@@ -2,5 +2,8 @@
 
 ## Hey There! 
 
-I am a experienced software engineer with over six years of expertise, deeply passionate about building high-quality and effective software. From business analysis to product implementation, my focus is on creating software that is iteratively scalable, committing myself to the continuous improvement of products throughout their life cycle. I do my best to foster a culture of collaboration and excellence within the team and I strongly believe in diversity and collaborative work as a drive to achieve team success. I am currently mostly working with TypeScript, JavaScript, Node.js and React recently, but I like to poke around and experiment new technologies at my free time.
+I am an experienced software engineer with over six years of professional expertise in various programming languages and technologies. I am deeply passionate about crafting high-quality and impactful products, contributing across the entire process of building a successful software, from business analysis to implementation and maintenance.
 
+My professional goal is to create iteratively scalable software, dedicating myself to the continuous improvement of the products I work on. I do my best to foster a culture of collaboration and excellence within the teams I work with, and I strongly believe in diversity as a drive to achieve team success.
+
+While TypeScript, JavaScript, Node.js, and React form my current technological core, I have previous experience with various other languages and technology stacks, such as Ruby, Java, and PHP. I'm always eager to embrace new challenges, even if they involve technologies I'm less familiar with.
